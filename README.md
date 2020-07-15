@@ -1,2 +1,2 @@
 # react_practises
-'Modern React with Redux' isimli Udemy kursunu takip ederken yaptığım örnekleri içerir. 
+React kütüphanesi ile yaptığım basit alıştırmaları içerir.
